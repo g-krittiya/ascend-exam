@@ -1,0 +1,12 @@
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/model/TransferRequest.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/proxy/BankAProxyGateway.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/proxy/BankBProxyGateway.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/model/InquiryServiceResultDTO.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/exception/GeneralValidateException.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/model/TransferResponse.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/model/InquiryRequest.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/service/InquiryService.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/proxy/BankProxyGateway.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/ExamApplication.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/repository/ResponseMappingRepository.java
+/Users/krittiya/Documents/ascend/exam/src/main/java/com/ascendcorp/exam/model/ResponseMapping.java

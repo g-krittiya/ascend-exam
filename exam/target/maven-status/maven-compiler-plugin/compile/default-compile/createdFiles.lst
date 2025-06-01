@@ -1,0 +1,12 @@
+com/ascendcorp/exam/exception/GeneralValidateException.class
+com/ascendcorp/exam/proxy/BankProxyGateway.class
+com/ascendcorp/exam/ExamApplication.class
+com/ascendcorp/exam/proxy/BankAProxyGateway.class
+com/ascendcorp/exam/model/InquiryServiceResultDTO.class
+com/ascendcorp/exam/repository/ResponseMappingRepository.class
+com/ascendcorp/exam/model/TransferRequest.class
+com/ascendcorp/exam/model/ResponseMapping.class
+com/ascendcorp/exam/proxy/BankBProxyGateway.class
+com/ascendcorp/exam/model/TransferResponse.class
+com/ascendcorp/exam/service/InquiryService.class
+com/ascendcorp/exam/model/InquiryRequest.class
